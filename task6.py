@@ -21,7 +21,7 @@
 from math import ceil
 
 
-class StacksOfPlates():
+class StacksOfPlates:
     def __init__(self, plates_list, len_stacks):
         self.plates_list = plates_list
         self.len_stacks = len_stacks
